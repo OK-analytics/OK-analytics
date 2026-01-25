@@ -1,4 +1,4 @@
-## Hi, I’m Olena 👋  
+## Hi, I’m Olena 👋🏻  
 A data‑curious analyst with a financial background.
 
 I enjoy uncovering what hides behind raw data: the patterns, the logic, and the stories that help people make better decisions. Whether I’m cleaning messy datasets, exploring trends, or building visualizations, I aim to keep everything clear, structured, and genuinely useful.
@@ -20,6 +20,6 @@ Currently experimenting with **AI tools** to automate routine analytical steps.
 - Small analytical case studies  
 - Experiments with data, visualization, and automation  
 
-## 🚀 Current focus
-Actively looking for my first Data Analyst role and building a portfolio that reflects my approach, curiosity, and growth.
+## 🎯 Current focus
+Actively looking for my first Data Analyst role - open to opportunities in data analytics and BI.
 
