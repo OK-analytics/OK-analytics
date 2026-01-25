@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi, I’m Olena 👋  
+A data‑curious analyst with a financial background.
 
-<!--
-**OK-analytics/OK-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy uncovering what hides behind raw data: the patterns, the logic, and the stories that help people make better decisions. Whether I’m cleaning messy datasets, exploring trends, or building visualizations, I aim to keep everything clear, structured, and genuinely useful.
 
-Here are some ideas to get you started:
+## 🔍 My analytical approach
+- Break down complex problems into simple, answerable questions  
+- Explore data with curiosity and structure  
+- Validate assumptions instead of guessing  
+- Communicate insights clearly and visually  
+- Focus on real‑world impact and sustainable growth  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools & Technologies
+**Python** · **SQL** · **Power BI** · **Excel** · **Tableau**  
+Currently experimenting with **AI tools** to automate routine analytical steps.
+
+## 📊 What you’ll find here
+- Learning projects  
+- Dashboards  
+- Small analytical case studies  
+- Experiments with data, visualization, and automation  
+
+## 🚀 Current focus
+Actively looking for my first Data Analyst role and building a portfolio that reflects my approach, curiosity, and growth.
+
