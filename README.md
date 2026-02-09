@@ -27,5 +27,5 @@ Learning projects, dashboards, case studies, and experiments with data and autom
 ---
 
 ### 🎯 Active goals
-Actively looking for my first Data Analyst role and open to opportunities in analytics and BI while building a portfolio that reflects my approach and growth.
+Actively looking for my first Data Analyst role, open to opportunities in analytics and BI, while building a portfolio that reflects my approach and growth.
 
